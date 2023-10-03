@@ -7,7 +7,7 @@ This python program for auto reconnect L2TP VPN from https://github.com/hwdsl2/s
 
 ## Requirements
 
-You may need to install requests library in order for the program to able to work
+You might need to install requests library in order for the program to able to work
 
 ```bash
   pip install requests
